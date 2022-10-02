@@ -26,8 +26,6 @@ You can then make protocols like Synthetix, Aave, and Compound with this!
 
 ![image](https://user-images.githubusercontent.com/110959584/193480544-ce1b250d-f5cf-4235-9498-ae96d3b2a91b.png)
 
-Chainlink Decentralized Oracle Network
-
 You can see visualizations of some of these DONs here.
 
 We'll go into exactly how these networks tick in later lessons.
