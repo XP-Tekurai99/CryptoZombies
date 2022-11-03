@@ -44,7 +44,7 @@ See the test folder? This is where we are going to be putting our tests.
 
 Truffle provides support for tests written in JavaScript and Solidity but, for the scope of this lesson, we are going to keep things simple and stick to JavaScript.
 
-Put it to the Test
+## Put it to the Test
 It is best practice to create a separate test file for each contract and give it the name of the smart contract. This makes managing your tests simpler in the
 long run, especially as your project grows and changes.
 
